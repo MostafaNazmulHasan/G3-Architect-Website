@@ -54,6 +54,7 @@
 }
 #header #nav #nav-links ul li a {
   text-decoration: none;
+ 
 }
 #header #nav #nav-links ul li a:visited {
   color: var(--dark-2);
